@@ -267,8 +267,8 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/Seattle%2013%284.jpg) no-repeat center center scroll;
-    background-color: #000;
+    background: url() no-repeat center center scroll;
+    background-color: #000;../img/Seattle2013284.jpg
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
