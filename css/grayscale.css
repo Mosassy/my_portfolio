@@ -148,7 +148,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/Seattle%202013%20283.jpg) no-repeat bottom center scroll;
+    background: url(../img/pier1.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -265,15 +265,22 @@ a:focus {
 
 .download-section {
     width: 100%;
-    padding: 50px 0;
+    padding: 50px;
     color: #fff;
-    background: url() no-repeat center center scroll;
-    background-color: #000;../img/Seattle2013284.jpg
+    text-align: center;
+    /*margin-left: 16.66666667%;*/
+    background: url(../img/santa_monica_sunset.jpg) no-repeat center center scroll;
+    background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+
 }
+    .download-section > .col-lg-offset-2 {
+      margin-left: 0%;
+    }
+
 
 #map {
     width: 100%;
